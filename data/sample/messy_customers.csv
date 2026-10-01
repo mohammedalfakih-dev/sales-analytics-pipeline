@@ -1,0 +1,38 @@
+customer_email,customer_name,region,signup_date,loyalty_tier
+alice@example.com,Alice van den Berg,NL,2023-11-15,Gold
+Bob@Company.COM,Bob De Smet,BE,2023-12-01,Silver
+charlie@work.org,Charlie Müller,DE,2024-01-10,Bronze
+dave@email.com,,NL,2024-01-15,Silver
+eve@startup.io,Eve Jansen,NL,2024-02-01,Gold
+frank@corp.com,Frank Dubois,FR,2024-02-14,Bronze
+Grace@University.EDU,Grace van Dijk,NL,2024-03-01,Silver
+henry@business.com,Henry Peeters,BE,2024-03-10,Bronze
+ivan@email.com,Ivan Schneider,DE,2024-03-15,Silver
+jenny@work.org,Jenny Laurent,FR,2024-01-20,Gold
+karl@startup.io,Karl Bakker,NL,2024-02-28,Bronze
+lena@mail.nl,Lena de Vries,NL,2024-04-01,Silver
+Marco@Business.DE,Marco Weber,DE,2024-04-10,Gold
+nina@university.edu,,NL,2024-04-15,Bronze
+oliver@corp.com,Oliver Martin,FR,2024-05-01,Silver
+Paula@Startup.IO,Paula Visser,NL,2024-05-10,Bronze
+quinn@work.org,Quinn Claes,BE,2024-05-15,Silver
+rachel@email.com,Rachel Schmitt,DE,not_a_date,Gold
+simon@company.com,Simon Leroy,FR,2024-06-01,Bronze
+tina@mail.nl,Tina Meijer,NL,2024-06-05,Silver
+uwe@business.de,Uwe Fischer,DE,2024-06-10,Gold
+vera@mail.nl,Vera Willems,BE,2024-06-15,Bronze
+wendy@startup.io,Wendy van Leeuwen,NL,2024-01-05,Silver
+xander@corp.com,Xander Moreau,FR,2024-02-20,Gold
+Yara@University.EDU,Yara Hendriks,NL,2024-03-25,Bronze
+zach@email.com,Zach Bauer,DE,2024-04-05,Silver
+orphan_customer1@mail.nl,Dirk Janssen,NL,2024-01-01,Gold
+orphan_customer2@business.de,Petra Hofmann,DE,2024-02-15,Bronze
+orphan_customer3@work.fr,Louis Petit,FR,2024-03-20,Silver
+orphan_customer4@mail.be,,BE,invalid_date,Gold
+sam@company.com,Sam de Groot,NL,2024-05-20,Silver
+lisa@email.com,Lisa Maes,BE,2024-06-01,Bronze
+tom@corp.com,Tom Bernard,FR,2024-04-18,Gold
+emma@startup.io,Emma van Houten,NL,2024-03-12,Silver
+jan@mail.nl,Jan de Boer,NL,2024-02-08,Bronze
+sophie@business.de,Sophie Klein,DE,2024-05-25,Gold
+orphan_customer5@university.edu,Maria Garcia,FR,2024-06-20,Silver

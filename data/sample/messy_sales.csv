@@ -1,0 +1,123 @@
+transaction_id,product_name,category,price,quantity,customer_email,date
+1,  laptop PRO ,Electronics,999.99,2,alice@example.com,2024-03-15
+2,WIRELESS MOUSE,Electronics,29.99,5,  BOB@Company.COM  ,2024-03-15
+3,  usb cable,Electronics,4.99,10,,2024-03-16
+4,  Office Chair ,Furniture,349.50,1,charlie@work.org,2024-03-16
+5,standing DESK,Furniture,599.00,1,charlie@work.org,not_a_date
+6,,Electronics,19.99,3,dave@email.com,2024-03-17
+7,  Mechanical Keyboard ,Electronics,-89.99,2,eve@startup.io,2024-03-17
+8,monitor ARM,Furniture,79.99,0,frank@corp.com,2024-03-18
+9,  WEBCAM hd ,Electronics,54.99,1,  ,2024-03-18
+10,desk lamp,Furniture,34.99,4,grace@university.edu,2024-03-19
+11,  NOISE CANCELLING headphones,Electronics,199.99,1,alice@example.com,2024-03-19
+12,cable management KIT,Furniture,15.99,6,henry@business.com,2024-03-20
+13,  ergonomic MOUSE PAD ,Furniture,24.99,3,ivan@email.com,2024-03-20
+14,laptop STAND,Furniture,45.99,2,jenny@work.org,2024-03-21
+15,  BLUETOOTH speaker,,39.99,1,karl@startup.io,2024-03-21
+16,Docking Station,Electronics,129.99,2,alice@example.com,2024-03-22
+17,  USB HUB ,Electronics,24.99,3,bob@company.com,2024-03-23
+18,WIRELESS CHARGER,Electronics,35.99,1,lena@mail.nl,2024-03-24
+19,  desk organizer,Furniture,22.50,2,marco@business.de,2024-03-25
+20,Monitor 27 Inch,Electronics,449.00,1,nina@university.edu,2024-03-26
+21,  STANDING desk MAT ,Furniture,67.99,1,oliver@corp.com,2024-03-27
+22,webcam RING LIGHT,Electronics,19.99,4,paula@startup.io,2024-03-28
+23,Laptop Bag,Accessories,49.99,2,quinn@work.org,2024-03-29
+24,  mouse pad XL,Furniture,18.99,3,rachel@email.com,2024-03-30
+25,power STRIP,Electronics,14.99,5,simon@company.com,2024-03-31
+26,  Ergonomic Footrest ,Furniture,45.00,1,tina@mail.nl,2024-04-01
+27,HDMI Cable,Electronics,9.99,8,alice@example.com,2024-04-02
+28,  wireless KEYBOARD ,Electronics,69.99,2,bob@company.com,2024-04-03
+29,Desk Shelf,Furniture,89.99,1,charlie@work.org,2024-04-04
+30,  SCREEN PROTECTOR ,Accessories,12.99,6,dave@email.com,2024-04-05
+31,,Furniture,199.99,1,eve@startup.io,2024-04-06
+32,Adjustable Monitor Stand,Furniture,159.00,1,frank@corp.com,2024-04-07
+33,  usb c ADAPTER ,Electronics,15.99,3,grace@university.edu,2024-04-08
+34,Cable Clips,Accessories,7.99,10,unknown_buyer@gmail.com,2024-04-09
+35,LAPTOP COOLING pad,Electronics,32.99,2,ivan@email.com,2024-04-10
+36,  desk PLANT pot ,Furniture,11.99,4,jenny@work.org,2024-04-11
+37,Webcam Cover,Accessories,4.99,15,karl@startup.io,2024-04-12
+38,  MECHANICAL keyboard ,Electronics,-149.99,1,lena@mail.nl,2024-04-13
+39,Office Lamp LED,Furniture,54.99,2,marco@business.de,2024-04-14
+40,  ethernet cable ,Electronics,8.99,7,nina@university.edu,2024-04-15
+41,Standing Desk Frame,Furniture,399.00,1,oliver@corp.com,2024-04-16
+42,  wireless PRESENTER ,Electronics,29.99,2,paula@startup.io,2024-04-17
+43,Drawer Organizer,Furniture,16.99,3,quinn@work.org,2024-04-18
+44,,Electronics,44.99,2,rachel@email.com,2024-04-19
+45,  PORTABLE monitor ,Electronics,279.99,1,simon@company.com,2024-04-20
+46,Desk Cable Tray,Furniture,24.99,2,tina@mail.nl,2024-04-21
+47,  noise machine ,,39.99,1,uwe@business.de,2024-04-22
+48,LAPTOP RISER,Furniture,55.99,1,vera@mail.nl,2024-04-23
+49,  usb MICROPHONE ,Electronics,79.99,1,wendy@startup.io,2024-04-24
+50,Whiteboard Small,Furniture,29.99,2,xander@corp.com,2024-04-25
+51,  POWER bank ,Electronics,49.99,3,yara@university.edu,2024-04-26
+52,Desk Mat Large,Furniture,34.99,1,zach@email.com,2024-04-27
+53,Monitor Light Bar,Electronics,59.99,1,alice@example.com,2024-04-28
+54,  FILE organizer ,Furniture,13.99,4,bob@company.com,2024-04-29
+55,Webcam Tripod,Accessories,21.99,2,charlie@work.org,2024-04-30
+56,  SURGE protector ,Electronics,-19.99,3,dave@email.com,2024-05-01
+57,Keyboard Wrist Rest,Furniture,17.99,2,eve@startup.io,2024-05-02
+58,  hdmi SPLITTER ,Electronics,22.99,2,frank@corp.com,2024-05-03
+59,Desk Fan USB,Electronics,15.99,3,temp_worker@messycorp.com,2024-05-04
+60,  bookend SET ,Furniture,19.99,2,henry@business.com,2024-05-05
+61,Wireless Mouse Pad,Electronics,42.99,1,ivan@email.com,2024-05-06
+62,,,29.99,2,jenny@work.org,2024-05-07
+63,  LAPTOP sleeve ,Accessories,27.99,2,karl@startup.io,2024-05-08
+64,Smart Power Strip,Electronics,39.99,1,lena@mail.nl,2024-05-09
+65,  monitor CLEANING kit ,Accessories,11.99,5,marco@business.de,2024-05-10
+66,Desk Drawer Unit,Furniture,129.99,1,nina@university.edu,2024-05-11
+67,  PHONE stand ,Accessories,14.99,3,oliver@corp.com,2024-05-12
+68,USB Docking Hub,Electronics,89.99,1,paula@startup.io,2024-05-13
+69,  cable MANAGEMENT box ,Furniture,21.99,2,quinn@work.org,2024-05-14
+70,LED Desk Lamp,Furniture,44.99,2,rachel@email.com,2024-05-15
+71,Portable Charger,Electronics,34.99,0,simon@company.com,2024-05-16
+72,  OFFICE whiteboard ,Furniture,79.99,1,tina@mail.nl,2024-05-17
+73,Mouse Bungee,,16.99,2,uwe@business.de,2024-05-18
+74,  laptop DOCKING station ,Electronics,189.99,1,vera@mail.nl,2024-05-19
+75,Paper Tray,Furniture,9.99,4,,2024-05-20
+76,  BLUETOOTH adapter ,Electronics,12.99,3,wendy@startup.io,2024-05-21
+77,Monitor Privacy Screen,Accessories,49.99,1,xander@corp.com,2024-05-22
+78,  document HOLDER ,Furniture,23.99,2,yara@university.edu,2024-05-23
+79,Portable SSD,Electronics,119.99,1,zach@email.com,2024-05-24
+80,  DESK calendar ,Furniture,8.99,5,alice@example.com,2024-05-25
+81,Webcam HD Pro,Electronics,89.99,1,bob@company.com,2024-05-26
+82,  pen HOLDER ,Furniture,6.99,6,charlie@work.org,2024-05-27
+83,Gaming Mouse,Electronics,59.99,2,dave@email.com,2024-05-28
+16,Docking Station,Electronics,129.99,2,alice@example.com,2024-03-22
+84,  WIRELESS earbuds ,Electronics,79.99,1,eve@startup.io,2024-05-29
+85,Desk Hutch,Furniture,199.99,1,frank@corp.com,2024-05-30
+86,  usb FAN ,Electronics,11.99,3,grace@university.edu,2024-05-31
+87,Keyboard Cover,Accessories,9.99,4,freelancer@outlook.com,2024-06-01
+88,  MINI projector ,Electronics,299.99,1,ivan@email.com,2024-06-02
+89,Foot Hammock,Furniture,18.99,2,jenny@work.org,2024-06-03
+90,  screen CLEANING wipes ,Accessories,5.99,10,karl@startup.io,2024-06-04
+91,Portable Speaker,Electronics,44.99,1,lena@mail.nl,2024-06-05
+92,,Accessories,14.99,3,marco@business.de,2024-06-06
+93,  LAPTOP lock ,Accessories,24.99,2,nina@university.edu,2024-06-07
+94,Desk Pad Leather,Furniture,64.99,1,oliver@corp.com,2024-06-08
+95,  wireless HEADSET ,Electronics,149.99,1,paula@startup.io,2024-06-09
+96,Clip-on Desk Light,Furniture,27.99,3,quinn@work.org,2024-06-10
+97,USB Wall Charger,Electronics,18.99,4,intern2024@messycorp.com,2024-06-11
+98,  DESK storage BOX ,Furniture,32.99,2,simon@company.com,2024-06-12
+99,Portable Monitor Stand,Furniture,44.99,0,tina@mail.nl,2024-06-13
+100,  webcam LIGHT ,Electronics,22.99,2,uwe@business.de,2024-06-14
+101,Desk Shelf Riser,Furniture,37.99,1,vera@mail.nl,2024-06-15
+102,  CABLE tester ,Electronics,29.99,1,wendy@startup.io,2024-06-16
+103,Under Desk Drawer,Furniture,41.99,1,xander@corp.com,2024-06-17
+53,Monitor Light Bar,Electronics,59.99,1,alice@example.com,2024-04-28
+104,  SD card READER ,Electronics,14.99,3,yara@university.edu,2024-06-18
+105,Desktop Organizer Set,Furniture,54.99,1,zach@email.com,2024-06-19
+106,  GAMING keyboard ,Electronics,129.99,1,alice@example.com,2024-06-20
+107,Laptop Stand Pro,Furniture,4999.99,1,bob@company.com,2024-06-21
+108,  usb LIGHT strip ,,16.99,3,charlie@work.org,2024-06-22
+109,Desk Clock Digital,Furniture,19.99,2,dave@email.com,2024-06-23
+110,  WIRELESS trackball ,Electronics,64.99,1,eve@startup.io,2024-06-24
+111,Office Partition,Furniture,2499.00,1,frank@corp.com,2024-06-25
+112,  laptop SCREEN cleaner ,Accessories,7.99,5,grace@university.edu,2024-06-26
+113,Smart Plug,Electronics,19.99,4,henry@business.com,2024-06-27
+114,  DESK lamp WIRELESS ,Furniture,69.99,1,ivan@email.com,2024-06-28
+115,Monitor Arm Dual,Furniture,179.99,1,jenny@work.org,2024-06-29
+116,  PHONE charger ,Electronics,12.99,5,  ,2024-06-30
+117,Keyboard Cleaner,Accessories,8.99,3,lena@mail.nl,2024-04-22
+118,  desk TIDY caddy ,Furniture,15.99,2,marco@business.de,2024-13-01
+119,USB Hub Powered,Electronics,34.99,2,nina@university.edu,
+120,  WEBCAM stand ,Accessories,18.99,1,oliver@corp.com,2024-05-15

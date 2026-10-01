@@ -1,0 +1,34 @@
+name: Sales pipeline checks
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          version: "0.8.22"
+      - run: uv python install 3.12
+      - run: uv sync --frozen --python 3.12
+      - run: uv run ruff check src tests
+      - run: uv run ruff format --check src tests
+      - run: uv run pytest -q
+      - run: uv run python -m src.pipeline
+      - name: Build and run the sample container
+        run: |
+          docker build -t sales-analytics:${{ github.sha }} .
+          mkdir -p reports/docker
+          docker run --rm -v "$PWD/reports/docker:/app/reports/generated" sales-analytics:${{ github.sha }}
+          test -s reports/docker/customer_summary.parquet
+          test -s reports/docker/weekly_revenue.csv
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sales-sample-reports
+          path: reports/generated/
